@@ -7,7 +7,7 @@ from tensorflow.python.framework import tensor_shape
 
 
 class PCP(Layer):
-    """Polycentric Concentric Circle pooling layer for 2D inputs.
+    """Polycentric circle pooling layer for 2D inputs.
     See Polycentric Circle Pooling in Deep Convolutional Network for High-Resolution Remote Sensing Recognition (under review),
     K. Qi, C. Hu, C. Yang, Q. Guan
     # Arguments
